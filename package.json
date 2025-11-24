@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "QR Code Image Generator that opens URL",
+  "license": "ISC",
+  "author": "Amar Arora",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.0.1",
+    "inquirer": "^13.0.1",
+    "qr-image": "^3.2.0"
+  }
+}
